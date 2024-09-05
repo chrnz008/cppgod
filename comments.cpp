@@ -1,0 +1,2 @@
+//line comments
+/*block comments*/
